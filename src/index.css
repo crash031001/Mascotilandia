@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  margin-bottom:-100px ;
+  overflow-x:hidden;
+}
+:root {
+  --bs-info: #860df0;
+}
+.bg-info{
+  background: var(--bs-info) !important;
+}
+.text-info{
+  color: var(--bs-info) !important;
+}
+.text-bg-info{
+  background: var(--bs-info) !important;
+}

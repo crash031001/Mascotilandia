@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "nombre": "Croquetas para perros",
+        "categoria": "Alimento",
+        "marca": "PetFood",
+        "precio": 25.99,
+        "descripcion": "Croquetas nutritivas para perros adultos."
+    },
+    {
+        "id": 2,
+        "nombre": "Arena para gatos",
+        "categoria": "Higiene",
+        "marca": "CatCare",
+        "precio": 15.50,
+        "descripcion": "Arena absorbente y sin polvo para gatos."
+    },
+    {
+        "id": 3,
+        "nombre": "Juguete de peluche para perros",
+        "categoria": "Juguetes",
+        "marca": "PlayPaw",
+        "precio": 12.99,
+        "descripcion": "Juguete suave y resistente para horas de diversión."
+    },
+    {
+        "id": 4,
+        "nombre": "Comedero automático para gatos",
+        "categoria": "Accesorios",
+        "marca": "FeedSmart",
+        "precio": 45.00,
+        "descripcion": "Comedero que dispensa comida a horas programadas."
+    },
+    {
+        "id": 5,
+        "nombre": "Champú para perros",
+        "categoria": "Higiene",
+        "marca": "CleanPaws",
+        "precio": 10.99,
+        "descripcion": "Champú hipoalergénico para mantener el pelaje limpio."
+    },
+    {
+        "id": 6,
+        "nombre": "Collar reflectante para perros",
+        "categoria": "Accesorios",
+        "marca": "SafeDog",
+        "precio": 8.49,
+        "descripcion": "Collar con material reflectante para mayor seguridad."
+    },
+    {
+        "id": 7,
+        "nombre": "Snacks de pollo para gatos",
+        "categoria": "Alimento",
+        "marca": "CatTreats",
+        "precio": 5.99,
+        "descripcion": "Deliciosos snacks de pollo para consentir a tu gato."
+    },
+    {
+        "id": 8,
+        "nombre": "Transportadora para mascotas",
+        "categoria": "Accesorios",
+        "marca": "PetCarrier",
+        "precio": 60.00,
+        "descripcion": "Transportadora cómoda y segura para viajar con tu mascota."
+    },
+    {
+        "id": 9,
+        "nombre": "Rascador para gatos",
+        "categoria": "Juguetes",
+        "marca": "ScratchMe",
+        "precio": 30.00,
+        "descripcion": "Rascador de cartón ecológico para mantener las uñas en forma."
+    },
+    {
+        "id": 10,
+        "nombre": "Cama ortopédica para perros",
+        "categoria": "Accesorios",
+        "marca": "ComfortPaw",
+        "precio": 80.00,
+        "descripcion": "Cama ortopédica que proporciona soporte y comodidad."
+    },
+    {
+        "id": 11,
+        "nombre": "Juguete interactivo para gatos",
+        "categoria": "Juguetes",
+        "marca": "FunCat",
+        "precio": 22.50,
+        "descripcion": "Juguete que estimula la mente de tu gato."
+    },
+    {
+        "id": 12,
+        "nombre": "Comida húmeda para perros",
+        "categoria": "Alimento",
+        "marca": "WetDog",
+        "precio": 3.50,
+        "descripcion": "Comida húmeda rica en proteínas y sabor."
+    },
+    {
+        "id": 13,
+        "nombre": "Correa extensible para perros",
+        "categoria": "Accesorios",
+        "marca": "WalkEasy",
+        "precio": 20.00,
+        "descripcion": "Correa extensible que permite libertad de movimiento."
+    },
+    {
+        "id": 14,
+        "nombre": "Gato rascador de cartón",
+        "categoria": "Juguetes",
+        "marca": null,
+        "precio": 15.00,
+        "descripcion": null
+    }
+]
